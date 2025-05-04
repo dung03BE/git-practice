@@ -1,3 +1,2 @@
-Xin chào, tôi là code gốc
-
 Nội dung A
+abc
