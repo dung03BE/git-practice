@@ -2,3 +2,5 @@ Nội dung A
 dmc
 abc
 Mới
+
+New master
