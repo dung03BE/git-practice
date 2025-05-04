@@ -1,3 +1,7 @@
+Nội dung A
+dmc
+abc
+Mới
 Xin chào, tôi là code gốc
 
 Nội dung B
